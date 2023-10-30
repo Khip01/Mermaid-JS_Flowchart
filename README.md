@@ -24,4 +24,6 @@ flowchart TD
 
 ```
 
-[Go to Top](#top)
+<div style="text-align: center;">
+    [Go to Top](#top)
+</div>
