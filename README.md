@@ -1,3 +1,4 @@
+<div id="top"></div>
 # Mermaid-JS Flowchart
 Mermaid JS for Flowchart
 
@@ -24,4 +25,4 @@ flowchart TD
 
 ```
 
-[Go to Top](#Mermaid-JS Flowchart)
+[Go to Top](#top)
