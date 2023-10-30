@@ -24,4 +24,4 @@ flowchart TD
 
 ```
 
-[Go to Top](#Mermaid-JS%20Flowchart)
+[Go to Top](#Mermaid-JS Flowchart)
