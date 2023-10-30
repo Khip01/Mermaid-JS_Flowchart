@@ -1,4 +1,5 @@
-<h1 id="top">Mermaid-JS Flowchart</h1>
+<div id="top"></div>
+# Mermaid-JS Flowchart
 Mermaid JS for Flowchart
 
 ```mermaid
