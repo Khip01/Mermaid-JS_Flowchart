@@ -1,4 +1,4 @@
-# Mermaid-JS_Flowchart
+# Mermaid-JS Flowchart
 Mermaid JS for Flowchart
 
 ```mermaid
@@ -24,4 +24,4 @@ flowchart TD
 
 ```
 
-[Go to Top](#Mermaid-JS_Flowchart)
+[Go to Top](#Mermaid-JS%20Flowchart)
