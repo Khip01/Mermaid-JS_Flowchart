@@ -24,6 +24,7 @@ flowchart TD
 
 ```
 
-<center>
-    [Go to Top](#top)
-</center>
+<div style="text-align:center;">
+  <a href="#top">Kembali ke Atas</a>
+</div>
+
